@@ -1,5 +1,8 @@
 # Notion-Tracker
-🗺 - A tracker to graph my Notion contributions 
+![image](https://github.com/Aby-ss/Notion-Tracker/assets/103417697/795f5b94-56e9-4942-8fa7-e6f83d93f518)
+🗺 - A tracker to graph my Notion contributions
+
+
 
 **The Notion Activity Tracker is a Python-based project designed to help individuals track and visualize their activity and work progress within the popular productivity app, Notion. By leveraging the capabilities of the Notion API, this tool enables users to retrieve data from their Notion workspace, process it, and generate insightful activity charts. The project aims to provide users with a comprehensive overview of their productivity, empower them to analyze their work patterns, and facilitate goal-setting and optimization of their workflows.**
 
@@ -33,3 +36,6 @@
 ### **Contributing**
 
 **Contributions to the Notion Activity Tracker project are highly appreciated. Whether you want to fix bugs, add new features, or enhance existing functionality, your contributions**
+
+![image](https://github.com/Aby-ss/Notion-Tracker/assets/103417697/bc5f14a8-6a80-4c55-98cb-aec0a5eb0d1e)
+
